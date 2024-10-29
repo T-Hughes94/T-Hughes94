@@ -6,8 +6,8 @@ I'm a full-stack developer specializing in building high-quality web application
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TerenceHughes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/terencehughes)
-[![Email](https://img.shields.io/badge/Email-terence@example.com-red?style=flat&logo=gmail)](mailto:terence@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TerenceHughes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/terence-hughes-27204128a/)
+[![Email](https://img.shields.io/badge/Email-terence@example.com-red?style=flat&logo=gmail)](mailto:terencehughes450@gmail.com)
 
 ### 🛠 Tech Stack
 
