@@ -29,7 +29,9 @@ I'm a full-stack developer specializing in building high-quality web application
 
 ### ⚡ Fun Facts
 
+- 🥇 Proud Father
 - 🍟 Passionate about cooking and experimenting with potatoes in new ways!
-- 🎮 Avid gamer and anime fan
+- 🎮 Avid gamer and Star Wars fan
+  
 
 
