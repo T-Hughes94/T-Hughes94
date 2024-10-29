@@ -1,4 +1,4 @@
-            # Hi there! 👋 I'm Terence Hughes
+# Hi there! 👋 I'm Terence Hughes
 
 I'm a full-stack developer specializing in building high-quality web applications and digital experiences. Currently diving deep into **Next.js** and **TypeScript**.
 
