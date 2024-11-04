@@ -17,8 +17,8 @@ I'm a full-stack developer specializing in building high-quality web application
 
 ### 🚀 Projects
 
-- **[AlpineShore Web Development](https://github.com/YourRepo/AlpineShore)**: High-performance portfolio and small business sites
-- **Elite Spotless**: Efficient and clean UI for service-based businesses
+- **[AlpineShore Web Development]**: High-performance portfolio and small business sites
+- **Elite Spotless Cleaning**: Business Landing Page
 
 ---
 
